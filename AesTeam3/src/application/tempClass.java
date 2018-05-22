@@ -3,7 +3,7 @@ package application;
 public class tempClass
 {
 
-	private int num,num2;
+	private float num,num2;
 	
 
 	
